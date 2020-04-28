@@ -1,0 +1,68 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.navbar {
+    background-color: white;
+    position: fixed;
+    height: 50px;
+    width: 100vw;
+    top: 0;
+    left: 0;
+    border-bottom: solid 3px lightgray;
+    margin-bottom: 75px;
+}
+
+.navbutton{
+    float: right;
+    height: 30px;
+    margin: 10px;
+    font-size: 14pt;
+    background-color: rgb(57, 113, 216);
+    color: white;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#about {
+    margin-right: 3%;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+.register {
+    background-color: white;
+    border: solid 1px gray;
+    border-radius: 5px;
+    width: 400px;
+    height: 500px;
+    box-shadow: 3px 3px gray;
+    margin: 10% auto;
+    text-align: center;
+
+}
+
+#submit {
+    width: 125px;
+    background-color: rgb(57, 113, 216);
+    color: white;
+    font-size: 13pt;
+}
+
+input {
+    height: 25px;
+    width: 80%;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+
+a {
+    text-decoration: none;
+}
